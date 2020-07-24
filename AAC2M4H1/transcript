@@ -1,0 +1,12 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile C:/Modeltech_pe_edu_10.4a/examples/AAC2M4H1/AAC2M4H1.v
+vlog -reportprogress 300 -work work C:/Modeltech_pe_edu_10.4a/examples/AAC2M4H1/AAC2M4H1.v
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 00:22:56 on Apr 27,2020
+# vlog -reportprogress 300 -work work C:/Modeltech_pe_edu_10.4a/examples/AAC2M4H1/AAC2M4H1.v 
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+# End time: 00:22:56 on Apr 27,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

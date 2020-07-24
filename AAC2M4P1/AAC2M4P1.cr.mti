@@ -1,0 +1,23 @@
+C:/Modeltech_pe_edu_10.4a/examples/AAC2M4P1/AAC2M4P1_tb.vp {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/AAC2M4P1/AAC2M4P1_tb.vp
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AAC2M4P1_tb
+
+Top level modules:
+	AAC2M4P1_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/AAC2M4P1/AAC2M4P1/AAC2M4P1.v {0 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/AAC2M4P1/AAC2M4P1/AAC2M4P1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LS161a
+** Error: (vlog-13069) C:/Modeltech_pe_edu_10.4a/examples/AAC2M4P1/AAC2M4P1/AAC2M4P1.v(14): near "posedge": syntax error, unexpected posedge.
+
+** Error: C:/Modeltech_pe_edu_10.4a/examples/AAC2M4P1/AAC2M4P1/AAC2M4P1.v(30): (vlog-13205) Syntax error found in the scope following 'RCO'. Is there a missing '::'?
+
+
+} {4.0 5.0 6.0 7.0} {}} C:/Modeltech_pe_edu_10.4a/examples/AAC2M4P1/AAC2M4P1.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/AAC2M4P1/AAC2M4P1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LS161a
+
+Top level modules:
+	LS161a
+
+} {} {}}
