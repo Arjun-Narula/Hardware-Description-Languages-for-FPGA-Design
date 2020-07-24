@@ -1,0 +1,100 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eaac2m2h1_tb
+Z0 w1573321600
+Z1 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z2 DPx4 ieee 20 numeric_bit_unsigned 0 22 Uo=_FXbo@j4IMIikZfQ=:3
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Modeltech_pe_edu_10.4a/examples/AAC2M2H1
+Z7 8C:/Modeltech_pe_edu_10.4a/examples/AAC2M2H1/AAC2M2H1_tb.vhdp
+Z8 FC:/Modeltech_pe_edu_10.4a/examples/AAC2M2H1/AAC2M2H1_tb.vhdp
+l0
+L50
+V9D`^k9Z`OzKWWcSUIeV1M1
+!s100 [BEDd>9OXS_zAek6EKD>l1
+Z9 OP;C;10.4a;61
+32
+Z10 !s110 1586728205
+!i10b 1
+Z11 !s108 1586728205.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/AAC2M2H1/AAC2M2H1_tb.vhdp|
+Z13 !s107 C:/Modeltech_pe_edu_10.4a/examples/AAC2M2H1/AAC2M2H1_tb.vhdp|
+!i113 1
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 11 aac2m2h1_tb 0 22 9D`^k9Z`OzKWWcSUIeV1M1
+l132
+L58
+VI7oXbCKb?MAIF<T7[?6MS1
+!s100 :VWLMEC>Sj?FiVXO<S@W`1
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ealu
+Z16 w1586728260
+Z17 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z18 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R3
+R4
+R5
+R6
+Z19 8C:/Modeltech_pe_edu_10.4a/examples/AAC2M2H1/AAC2M2H1.vhd
+Z20 FC:/Modeltech_pe_edu_10.4a/examples/AAC2M2H1/AAC2M2H1.vhd
+l0
+L6
+V<WVj@MS<B9iGb<ZL32eE[0
+!s100 DT2F2BT@RHT2kYhGPVHJO0
+R9
+32
+Z21 !s110 1586728265
+!i10b 1
+Z22 !s108 1586728265.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/AAC2M2H1/AAC2M2H1.vhd|
+Z24 !s107 C:/Modeltech_pe_edu_10.4a/examples/AAC2M2H1/AAC2M2H1.vhd|
+!i113 1
+R14
+R15
+Aarch_alu
+R17
+R18
+R3
+R4
+R5
+Z25 DEx4 work 3 alu 0 22 <WVj@MS<B9iGb<ZL32eE[0
+l12
+L11
+VS_j]4[O:fnI6<c_0MW98W3
+!s100 nc;0Y8X?[Te]aAKSR@6c23
+R9
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R14
+R15

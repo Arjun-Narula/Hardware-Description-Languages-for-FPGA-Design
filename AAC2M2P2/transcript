@@ -1,0 +1,10 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile C:/Modeltech_pe_edu_10.4a/examples/AAC2M2P2/AAC2M2P2.vhd
+vcom -reportprogress 300 -work work C:/Modeltech_pe_edu_10.4a/examples/AAC2M2P2/AAC2M2P2.vhd
+# Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 19:48:09 on Apr 12,2020
+# vcom -reportprogress 300 -work work C:/Modeltech_pe_edu_10.4a/examples/AAC2M2P2/AAC2M2P2.vhd 
+# ** Error: (vcom-66) Execution of vlib failed. Please check the error log for more details.
+# 
+# End time: 19:48:09 on Apr 12,2020, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
