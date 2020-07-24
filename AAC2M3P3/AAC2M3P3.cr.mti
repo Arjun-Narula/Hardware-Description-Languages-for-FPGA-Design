@@ -1,0 +1,23 @@
+C:/Modeltech_pe_edu_10.4a/examples/AAC2M3P3/AAC2M3P3.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/AAC2M3P3/AAC2M3P3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module find_errors
+
+Top level modules:
+	find_errors
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/AAC2M3P3/AAC2M3P3_tb.vp {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/AAC2M3P3/AAC2M3P3_tb.vp
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AAC2M3P1_tb
+
+Top level modules:
+	AAC2M3P1_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/AAC2M3P3/AAC2M3P3/AAC2M3P3.v {0 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/AAC2M3P3/AAC2M3P3/AAC2M3P3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module find_errors
+** Error: C:/Modeltech_pe_edu_10.4a/examples/AAC2M3P3/AAC2M3P3/AAC2M3P3.v(53): (vlog-2110) Illegal reference to net "bw".
+
+** Error: C:/Modeltech_pe_edu_10.4a/examples/AAC2M3P3/AAC2M3P3/AAC2M3P3.v(55): (vlog-2110) Illegal reference to net "bw".
+
+
+} {4.0 5.0 6.0 7.0} {}}
